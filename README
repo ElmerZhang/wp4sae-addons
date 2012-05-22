@@ -1,0 +1,3 @@
+本项目用于收集兼容 WordPress for SAE 的扩展（包括主题和插件）。
+项目中所有扩展均经过 WordPress for SAE 官方测试，确定可用。
+个人精力有限，无法移植所有扩展，欢迎大家将自己移植的扩展提交 pull request。
